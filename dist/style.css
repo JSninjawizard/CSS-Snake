@@ -34,5 +34,8 @@ main {
   border: 1px solid green;
   display: flex;
 }
+.part-3__box-9 {
+  background-color: red;
+}
 
 /*# sourceMappingURL=style.css.map */
